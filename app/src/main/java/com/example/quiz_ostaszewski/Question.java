@@ -7,12 +7,10 @@ public class Question {
         this.questionId = questionId;
         this.trueAnswer = trueAnswer;
     }
-    public int getQuestionId(Question question)
-    {
-        return question.questionId;
+    public int getQuestionId(){
+        return questionId;
     }
-    public boolean isTrueAnswer(Question question)
-    {
-        return question.trueAnswer;
+    public boolean isTrueAnswer(){
+        return trueAnswer;
     }
 }

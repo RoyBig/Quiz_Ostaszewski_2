@@ -1,8 +1,10 @@
 <resources>
     <string name="app_name">Quiz_Ostaszewski</string>
-    <string name ="button_true">Prawda</string>
+    <string name="button_true">Prawda</string>
     <string name="button_false">Fałsz</string>
     <string name="button_next">Następne</string>
+    <string name="button_prompt">Podpowiedź</string>
+    <string name="button_back">Powrót</string>
 
     <string name="q_activity">Activity jest jednym z komponentów aplikacji Android.</string>
     <string name="q_version">Android 8 jest najnowszą wersją systemu Android.</string>
@@ -12,4 +14,9 @@
 
     <string name="correct_answer">Odpowiedź prawidłowa.</string>
     <string name="incorrect_answer">Odpowiedź nieprawidłowa.</string>
+
+    <string name="are_you_sure">Czy na pewno chcesz zobaczyć odpowiedź?</string>
+    <string name="button_show_answer">Pokaż odpowiedź</string>
+
+    <string name="answer_was_shown">Oszukujesz! Odpowiedź była już wyświetlona.</string>
 </resources>
